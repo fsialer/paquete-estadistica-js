@@ -1,0 +1,23 @@
+{
+  "name": "paquete-estadistica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fsialer/paquete-estadistica-js.git"
+  },
+  "keywords": [],
+  "author": "Fernando",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/fsialer/paquete-estadistica-js/issues"
+  },
+  "homepage": "https://github.com/fsialer/paquete-estadistica-js/#readme",
+  "description": "Funciones estadistica y generacon de graficas con node js"
+}
